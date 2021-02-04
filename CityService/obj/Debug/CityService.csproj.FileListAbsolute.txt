@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityService.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityService.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\obj\Debug\CityService.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\obj\Debug\CityService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\obj\Debug\CityService.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\obj\Debug\CityService.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityModel.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityModelCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityRepositoryCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityServiceCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityModelCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityModel.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityRepositoryCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityServiceCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\obj\Debug\CityService.csproj.CopyComplete
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityRepository.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityService\bin\Debug\CityRepository.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\bin\Debug\CityRepositoryCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\bin\Debug\CityRepositoryCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\obj\Debug\CityRepositoryCommon.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\obj\Debug\CityRepositoryCommon.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\obj\Debug\CityRepositoryCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\obj\Debug\CityRepositoryCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\bin\Debug\CityModelCommon.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\bin\Debug\CityModelCommon.pdb
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\obj\Debug\CityRepositoryCommon.csproj.CopyComplete
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\bin\Debug\CityModel.dll
+C:\Users\user\source\repos\PraksaDay2Solution\CityRepositoryCommon\bin\Debug\CityModel.pdb
